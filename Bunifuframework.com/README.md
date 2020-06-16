@@ -20,4 +20,4 @@ Install-Package Bunifu.UI.WinForms -Version 2.2.1
 Install-Package Bunifu.Dataviz.WinForms -Version 2.1.2
 ```
 
-## [Download](https://github.com/cydolo/CyberReverse/releases/download/11.0/Bunifu.Licensing.rar)
+## [Download](https://github.com/cydolo/CyberReverse/releases/download/10.0/Bunifu.Licensing.rar)
