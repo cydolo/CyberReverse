@@ -12,7 +12,7 @@ Bunifu.Dataviz.WinForms: 2.1.2
 
 ### Bunifu.UI.WinForms 2.2.2 on Nuget
 ```
-Install-Package Bunifu.UI.WinForms -Version 2.2.1
+Install-Package Bunifu.UI.WinForms -Version 2.2.2
 ```
 
 ### Bunifu.Dataviz.WinForms 2.1.2 on Nuget  
