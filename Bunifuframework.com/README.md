@@ -7,17 +7,17 @@
 
 > Modern beautiful controls and components for creating stunning app UI
 
-Bunifu.UI.WinForms: 2.2.2 
-Bunifu.Dataviz.WinForms: 2.1.2
+Bunifu.UI.WinForms: 2.2.4 
+Bunifu.Dataviz.WinForms: 2.1.3
 
-### Bunifu.UI.WinForms 2.2.2 on Nuget
+### Bunifu.UI.WinForms 2.2.4 on Nuget
 ```
-Install-Package Bunifu.UI.WinForms -Version 2.2.2
-```
-
-### Bunifu.Dataviz.WinForms 2.1.2 on Nuget  
-```
-Install-Package Bunifu.Dataviz.WinForms -Version 2.1.2
+Install-Package Bunifu.UI.WinForms -Version 2.2.4
 ```
 
-## [Download](https://github.com/cydolo/CyberReverse/releases/download/10.0/Bunifu.Licensing.rar)
+### Bunifu.Dataviz.WinForms 2.1.3 on Nuget  
+```
+Install-Package Bunifu.Dataviz.WinForms -Version 2.1.3
+```
+
+## [Download](https://github.com/cydolo/CyberReverse/releases/download/11.0/Bunifu.Licensing.rar)
