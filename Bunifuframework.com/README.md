@@ -7,12 +7,12 @@
 
 > Modern beautiful controls and components for creating stunning app UI
 
-Bunifu.UI.WinForms: 3.0.0
+Bunifu.UI.WinForms: 3.0.2
 Bunifu.Dataviz.WinForms: 2.1.4
 
-### Bunifu.UI.WinForms 3.0.0 on Nuget
+### Bunifu.UI.WinForms 3.0.2 on Nuget
 ```
-Install-Package Bunifu.UI.WinForms -Version 3.0.0
+Install-Package Bunifu.UI.WinForms -Version 3.0.2
 ```
 
 ### Bunifu.Dataviz.WinForms 2.1.4 on Nuget  
