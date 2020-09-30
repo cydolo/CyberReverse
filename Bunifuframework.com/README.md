@@ -1,11 +1,10 @@
-### Bunifuframework <br> Pretty Controls and Components
+#### Bunifuframework ~ Pretty Controls and Components
 
 > Modern beautiful controls and components for creating stunning app UI
 
 **Site:** https://bunifuframework.com  
 **File:** `Bunifu.Licensing.dll`  
-**Usage:**
-> Replace **Bunifu.Licensing.dll** with the cracked file. the file 
+**Usage:** Replace **Bunifu.Licensing.dll** with the cracked file.
 
 ## Nuget
 
