@@ -1,18 +1,20 @@
-#### Bunifuframework <br> Pretty Controls and Components
-
-**Site:** https://bunifuframework.com  
-**File:** `Bunifu.Licensing.dll`  
-**Usage:** Replaces *Bunifu.Licensing.dll* with the cracked file.
-
+### Bunifuframework <br> Pretty Controls and Components
 
 > Modern beautiful controls and components for creating stunning app UI
 
-Bunifu.UI.WinForms: 3.0.2
+**Site:** https://bunifuframework.com  
+**File:** `Bunifu.Licensing.dll`  
+**Usage:**
+> Replace **Bunifu.Licensing.dll** with the cracked file. the file 
+
+## Nuget
+
+Bunifu.UI.WinForms: 4.0.0   
 Bunifu.Dataviz.WinForms: 2.1.4
 
-### Bunifu.UI.WinForms 3.0.2 on Nuget
+### Bunifu.UI.WinForms 4.0.0 on Nuget
 ```
-Install-Package Bunifu.UI.WinForms -Version 3.0.2
+Install-Package Bunifu.UI.WinForms -Version 4.0.0
 ```
 
 ### Bunifu.Dataviz.WinForms 2.1.4 on Nuget  
