@@ -8,12 +8,12 @@
 
 ## Nuget
 
-Bunifu.UI.WinForms: 4.0.0   
+Bunifu.UI.WinForms: 4.1.1   
 Bunifu.Dataviz.WinForms: 2.1.4
 
-### Bunifu.UI.WinForms 4.0.0 on Nuget
+### Bunifu.UI.WinForms 4.1.1 on Nuget
 ```
-Install-Package Bunifu.UI.WinForms -Version 4.0.0
+Install-Package Bunifu.UI.WinForms -Version 4.1.1
 ```
 
 ### Bunifu.Dataviz.WinForms 2.1.4 on Nuget  
