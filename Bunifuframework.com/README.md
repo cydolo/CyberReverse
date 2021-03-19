@@ -12,14 +12,20 @@
 
 ## Nuget
 
-#### Bunifu.UI.WinForms 4.1.1 on Nuget
+#### Latest Bunifu.UI.WinForms on Nuget
 ```
-Install-Package Bunifu.UI.WinForms -Version 4.1.1
+Install-Package Bunifu.UI.WinForms -Version 5.0.1
 ```
 
-#### Bunifu.Dataviz.WinForms 2.1.4 on Nuget  
+#### Latest Bunifu.Dataviz.WinForms on Nuget  
 ```
-Install-Package Bunifu.Dataviz.WinForms -Version 2.1.4
+Install-Package Bunifu.Dataviz.WinForms -Version 2.1.5
 ```
+
+#### Latest Bunifu.Charts.WinForms on Nuget  
+```
+Install-Package Bunifu.Charts.WinForms -Version 1.0.0
+```
+
 
 ## [Download](https://github.com/cydolo/CyberReverse/releases/download/12.0/Bunifu.Licensing.rar)
