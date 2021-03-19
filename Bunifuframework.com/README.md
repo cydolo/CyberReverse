@@ -8,7 +8,7 @@
 
 1 - Download/Install Bunifu &' Exit Visual Studio  
 2 - Go to the Package folder &' Replace **Bunifu.Licensing.dll** with the cracked file.  
-3 - Start Visual Studio &' enjoy 
+3 - Start Visual Studio &' enjoy   
 
 ## Nuget
 
@@ -29,3 +29,4 @@ Install-Package Bunifu.Charts.WinForms -Version 1.0.0
 
 
 ## [Download](https://github.com/cydolo/CyberReverse/releases/download/12.0/Bunifu.Licensing.rar)
+![Bunifu](https://files.catbox.moe/h8gfh2.jpg)
