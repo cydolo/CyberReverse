@@ -24,7 +24,7 @@ Install-Package Bunifu.Dataviz.WinForms -Version 2.1.5
 
 #### Latest Bunifu.Charts.WinForms on Nuget  
 ```
-Install-Package Bunifu.Charts.WinForms -Version 1.0.0
+Install-Package Bunifu.Charts.WinForms -Version 1.0.1
 ```
 
 ### Issues
