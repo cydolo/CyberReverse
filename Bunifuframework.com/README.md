@@ -14,7 +14,7 @@
 
 #### Latest Bunifu.UI.WinForms on Nuget
 ```
-Install-Package Bunifu.UI.WinForms -Version 5.2.0
+Install-Package Bunifu.UI.WinForms -Version 5.2.1
 ```
 
 #### Latest Bunifu.Dataviz.WinForms on Nuget  
@@ -28,8 +28,8 @@ Install-Package Bunifu.Charts.WinForms -Version 1.1.5
 ```
 
 ### Issues
-**If you get an error that the product is not licensed, then try again to build the project  
-if you continue to have a error, remove the Licenses.licx file (in properties) and the control from the designer.**
+**if you get an error that the product is not licensed. then try again to build the project.  
+if you continue to have a error. remove the Licenses.licx file (in properties) and the control from the designer.**
  
 ## [Download](https://github.com/cydolo/CyberReverse/releases/download/12.0/Bunifu.Licensing.rar)
 ![Bunifu](https://files.catbox.moe/h8gfh2.jpg) 
