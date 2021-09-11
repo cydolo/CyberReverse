@@ -14,7 +14,7 @@
 
 #### Latest Bunifu.UI.WinForms on Nuget
 ```
-Install-Package Bunifu.UI.WinForms -Version 5.2.1
+Install-Package Bunifu.UI.WinForms -Version 5.2.2
 ```
 
 #### Latest Bunifu.Dataviz.WinForms on Nuget  
