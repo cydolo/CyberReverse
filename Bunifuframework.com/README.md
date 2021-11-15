@@ -19,7 +19,7 @@ Install-Package Bunifu.UI.WinForms -Version 5.3.0
 
 #### Latest Bunifu.Dataviz.WinForms on Nuget  
 ```
-Install-Package Bunifu.Dataviz.WinForms -Version 2.2.0
+Install-Package Bunifu.Dataviz.WinForms -Version 2.2.1
 ```
 
 #### Latest Bunifu.Charts.WinForms on Nuget  
